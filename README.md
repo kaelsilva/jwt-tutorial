@@ -22,4 +22,4 @@ Also, I've decided to add a shell script which creates and starts a MongoDB cont
 
 ## Screenshots
 
-<img src="https://imgur.com/hwaI2AP.png" width="45%"> <img src="https://imgur.com/hwaI2AP.png" width="45%"> <img src="https://imgur.com/hwaI2AP.png" width="45%">
+<img src="https://imgur.com/hwaI2AP.png" width="45%"> <img src="https://imgur.com/FJM4diW.png" width="45%"> <img src="https://imgur.com/VKCuuQb.png" width="45%">
