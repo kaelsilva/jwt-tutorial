@@ -9,8 +9,6 @@ import Middleware from '../middleware';
 
 const middleware = new Middleware();
 
-// const middleware = require('../middleware')
-
 const jwt = require('jsonwebtoken')
 const tokenSecret = process.env.TOKENSECRET
 
